@@ -1,4 +1,4 @@
-![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # Тестовое задание: Разработка консольного приложения "Личный финансовый кошелек"
 
 ### Цель: Создать приложение для учета личных доходов и расходов.
